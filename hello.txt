@@ -7,4 +7,5 @@ testing
 
 feature content
 
+conflict in master
 
